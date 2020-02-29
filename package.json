@@ -9,7 +9,7 @@
   "dependencies": {
     "firebase": "^4.3.1",
     "mongodb": "^2.2.31",
-    "mongoose": "^4.11.12",
+    "mongoose": "^5.9.2",
     "native-base": "^2.3.0",
     "react": "16.0.0-alpha.12",
     "react-native": "0.48.3",
